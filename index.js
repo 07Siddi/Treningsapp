@@ -59,7 +59,7 @@ app.get('/treningsapp', async (req, res) => {
         }
       }
   
-      // Genererer HTML-respons med styling
+      // Genererer HTML-respons med CSS styling
       let html = `
         <!DOCTYPE html>
         <html lang="no">
